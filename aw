@@ -1,4 +1,4 @@
-local P1000ToggleKey = "x" -- Change that to whatever keybind: "t"
+local P1000ToggleKey = "t" -- Change that to whatever keybind: "t"
  
  
 --[[
